@@ -1,0 +1,28 @@
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+:root {
+    --primary: #1F0802;
+    --secundary: #CEF09D;
+    --tertiary: #1C646D;
+    --quaternary: #38184C;
+    --quinary: #A0CD60;
+}
+
+.bg-custom {
+    background: rgb(31, 8, 2);
+    background: linear-gradient(90deg, var(--primary), var(--quaternary));
+}
+
+.navbar-brand,
+.nav-link {
+    color: white;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color: red;
+    transition: all 1;
+}
