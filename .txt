@@ -1,0 +1,89 @@
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png" class="card-img-top"
+                        alt="Charizard">
+                    <div class="card-body">
+                        <h5 class="card-title">Charizard</h5>
+                        <p class="card-text">Fogo / Voador</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" class="card-img-top"
+                        alt="Bulbasaur">
+                    <div class="card-body">
+                        <h5 class="card-title">Bulbasaur</h5>
+                        <p class="card-text">Planta / Venenoso</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png" class="card-img-top"
+                        alt="Squirtle">
+                    <div class="card-body">
+                        <h5 class="card-title">Squirtle</h5>
+                        <p class="card-text">Água</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png" class="card-img-top"
+                        alt="Jigglypuff">
+                    <div class="card-body">
+                        <h5 class="card-title">Jigglypuff</h5>
+                        <p class="card-text">Normal / Fada</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png" class="card-img-top"
+                        alt="Gengar">
+                    <div class="card-body">
+                        <h5 class="card-title">Gengar</h5>
+                        <p class="card-text">Fantasma / Venenoso</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png" class="card-img-top"
+                        alt="Machamp">
+                    <div class="card-body">
+                        <h5 class="card-title">Machamp</h5>
+                        <p class="card-text">Lutador</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png" class="card-img-top"
+                        alt="Alakazam">
+                    <div class="card-body">
+                        <h5 class="card-title">Alakazam</h5>
+                        <p class="card-text">Psíquico</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png" class="card-img-top"
+                        alt="Eevee">
+                    <div class="card-body">
+                        <h5 class="card-title">Eevee</h5>
+                        <p class="card-text">Normal</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 18rem;">
+                    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png" class="card-img-top"
+                        alt="Lucario">
+                    <div class="card-body">
+                        <h5 class="card-title">Lucario</h5>
+                        <p class="card-text">Lutador / Aço</p>
+                        <a href="#" class="btn btn-primary">Qual é este Pokémon</a>
+                    </div>
